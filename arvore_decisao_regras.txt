@@ -1,0 +1,22 @@
+Regras da Árvore de Decisão
+==================================================
+
+|--- Confiança <= 6.50
+|   |--- Impacto <= 6.50
+|   |   |--- class: Baixa
+|   |--- Impacto >  6.50
+|   |   |--- Facilidade <= 4.50
+|   |   |   |--- class: Baixa
+|   |   |--- Facilidade >  4.50
+|   |   |   |--- class: Média
+|--- Confiança >  6.50
+|   |--- Facilidade <= 5.50
+|   |   |--- Impacto <= 8.50
+|   |   |   |--- class: Baixa
+|   |   |--- Impacto >  8.50
+|   |   |   |--- class: Média
+|   |--- Facilidade >  5.50
+|   |   |--- Impacto <= 7.50
+|   |   |   |--- class: Média
+|   |   |--- Impacto >  7.50
+|   |   |   |--- class: Alta
