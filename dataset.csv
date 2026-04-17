@@ -1,0 +1,50 @@
+cenario,perfil_time,tamanho_time,objetivo,oportunidade,impacto,confianca,facilidade,setor
+MVNO,Pleno,14,Aquisição de novos clientes,Portal Self-Service,7,7,6,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,API de Integração,8,6,4,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,Onboarding Digital,10,8,6,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,Plano Freemium PME,9,7,7,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,Dashboard Consumo,6,6,6,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,Detecção Inativos,5,5,5,Telecom
+MVNO,Pleno,14,Aquisição de novos clientes,Autoportabilidade,9,8,7,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Portal Self-Service,8,8,7,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,API de Integração,9,7,6,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Onboarding Digital,10,9,7,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Plano Freemium PME,9,8,8,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Dashboard Consumo,6,7,7,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Detecção Inativos,5,6,6,Telecom
+MVNO,Sênior,14,Aquisição de novos clientes,Autoportabilidade,10,9,8,Telecom
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Prova Virtual,2,4,5,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Recomendações AI,9,8,6,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Entrega Expressa,7,7,7,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Programa Fidelidade,10,9,8,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Live Commerce,8,7,6,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Reviews com Fotos,9,9,9,E-commerce
+E-commerce Cosméticos,Sênior,25,100% cosméticos,Busca por Imagem,3,5,4,E-commerce
+Fintech Crédito,Júnior,10,Redução de inadimplência,Score de Crédito ML,10,8,3,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Renegociação Digital,9,7,5,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Notificações Smart,7,6,7,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Dashboard Risco,6,7,4,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Onboarding KYC Auto,8,7,3,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Simulador Parcelas,5,8,8,Fintech
+Fintech Crédito,Júnior,10,Redução de inadimplência,Integração Open Finance,8,5,2,Fintech
+SaaS RH,Sênior,20,Expansão enterprise,SSO/SAML,9,9,8,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,API Folha Pagamento,8,7,5,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,Relatórios Custom,7,8,7,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,App Mobile,6,5,4,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,Workflow Aprovações,8,7,7,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,Analytics People,9,6,5,SaaS B2B
+SaaS RH,Sênior,20,Expansão enterprise,Integração ERP,10,8,4,SaaS B2B
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Prontuário Integrado,9,8,4,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Lembretes Consulta,7,9,8,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Chat Assíncrono,6,5,6,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Receita Digital,8,8,7,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Triagem Inteligente,9,6,3,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Programa Saúde Preventiva,10,7,4,HealthTech
+HealthTech Telemedicina,Pleno,18,Retenção de pacientes,Integração Farmácias,7,6,3,HealthTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Gamificação,9,7,4,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Trilhas Personalizadas,10,8,3,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Fórum Comunidade,7,6,6,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Certificados Blockchain,4,3,2,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,App Offline,6,5,3,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Mentoria 1:1,8,6,5,EdTech
+EdTech Cursos,Júnior,8,Engajamento dos alunos,Dashboard Progresso,8,8,6,EdTech
